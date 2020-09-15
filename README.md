@@ -3,6 +3,7 @@
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
+[![Run on Repl.it](https://repl.it/badge/github/SKT-AI/KoGPT2)](https://repl.it/github/SKT-AI/KoGPT2)
 
 - [KoGPT2 (한국어 GPT-2)](#kogpt2-한국어-gpt-2)
   - [Why'?'](#why)
